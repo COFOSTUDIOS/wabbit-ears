@@ -1,0 +1,15 @@
+{
+  "format": "wabbit-feed",
+  "version": 1,
+  "pack": {
+    "name": "WABBIT EARS",
+    "made": "2026-11-08T05:39:22.811Z",
+    "sha256": "73adf44a1cbaa0289470fe8dbd0423f6caef010206cdc83eb8a7a97698fe4050",
+    "bytes": 1283627,
+    "channels": 40,
+    "videos": 32043,
+    "url": "https://github.com/COFOSTUDIOS/wabbit-ears/releases/download/pack-2026-11-08-0539/wabbit-pack.json.gz"
+  },
+  "app": null,
+  "site": "https://wabbitears.com"
+}
