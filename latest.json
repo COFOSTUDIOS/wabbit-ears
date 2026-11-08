@@ -10,6 +10,10 @@
     "videos": 32043,
     "url": "https://github.com/COFOSTUDIOS/wabbit-ears/releases/download/pack-2026-11-08-0539/wabbit-pack.json.gz"
   },
-  "app": null,
+  "app": {
+    "version": "1.0.0",
+    "page": "https://github.com/COFOSTUDIOS/wabbit-ears/releases/tag/v1.0.0",
+    "notes": "a new version of the set"
+  },
   "site": "https://wabbitears.com"
 }
