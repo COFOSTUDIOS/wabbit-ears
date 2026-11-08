@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="brand/wabbit-ears-logo.png" alt="WABBIT EARS TV" width="720">
+</p>
+
+<p align="center"><b>a COFO STUDIOS network</b> · <a href="https://wabbitears.com">wabbitears.com</a></p>
+
 # WABBIT EARS
 
 a whole TV network, channel-surfing and all, that runs on your own computer.
